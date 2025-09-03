@@ -1,15 +1,14 @@
-#import "GuDestroyerRootListController.h"
 #import <UIKit/UIKit.h>
 #import <spawn.h>
 
-@interface GuDestroyerRootListController ()
+@interface GuDestroyerSettings : UITableViewController
 @property (nonatomic, strong) UISwitch *enabledSwitch;
 @property (nonatomic, strong) UITextField *titleField;
 @property (nonatomic, strong) UITextField *messageField;
 @property (nonatomic, strong) NSUserDefaults *defaults;
 @end
 
-@implementation GuDestroyerRootListController
+@implementation GuDestroyerSettings
 
 - (void)viewDidLoad {
     [super viewDidLoad];

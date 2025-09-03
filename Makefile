@@ -18,5 +18,5 @@ after-install::
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
-SUBPROJECTS += gudestroyerprefs
-include $(THEOS_MAKE_PATH)/aggregate.mk
+# SUBPROJECTS += gudestroyerprefs
+# include $(THEOS_MAKE_PATH)/aggregate.mk

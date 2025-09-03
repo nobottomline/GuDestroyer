@@ -9,6 +9,5 @@ GuDestroyerPrefs_FILES = GuDestroyerRootListController.m
 GuDestroyerPrefs_FRAMEWORKS = UIKit Foundation
 GuDestroyerPrefs_INSTALL_PATH = /Library/PreferenceBundles
 GuDestroyerPrefs_CFLAGS = -fobjc-arc
-GuDestroyerPrefs_LDFLAGS = -lprefs
 
 include $(THEOS_MAKE_PATH)/bundle.mk
