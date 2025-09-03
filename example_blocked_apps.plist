@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <!-- Социальные сети -->
+    <string>com.facebook.Facebook</string>
+    <string>com.twitter.twitter</string>
+    <string>com.instagram.instagram</string>
+    <string>com.snapchat.snapchat</string>
+    <string>com.zhiliaoapp.musically</string>
+    
+    <!-- Игры -->
+    <string>com.supercell.clashofclans</string>
+    <string>com.king.candycrushsaga</string>
+    <string>com.epicgames.fortnite</string>
+    <string>com.mojang.minecraftpe</string>
+    
+    <!-- Развлекательные приложения -->
+    <string>com.netflix.Netflix</string>
+    <string>com.youtube.ios</string>
+    <string>com.spotify.client</string>
+    <string>com.twitch.twitchtv</string>
+    
+    <!-- Мессенджеры -->
+    <string>com.whatsapp.WhatsApp</string>
+    <string>com.telegram.Telegram</string>
+    <string>com.viber</string>
+    <string>com.skype.skype</string>
+    
+    <!-- Браузеры -->
+    <string>com.google.chrome.ios</string>
+    <string>com.mozilla.ios.Firefox</string>
+    <string>com.opera.OperaTouch</string>
+    
+    <!-- Новости и медиа -->
+    <string>com.cnn.iphone</string>
+    <string>com.nytimes.NYTimes</string>
+    <string>com.reddit.Reddit</string>
+</array>
+</plist>

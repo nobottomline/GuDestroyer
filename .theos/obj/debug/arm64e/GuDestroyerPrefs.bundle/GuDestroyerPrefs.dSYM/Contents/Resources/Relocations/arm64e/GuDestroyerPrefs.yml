@@ -1,0 +1,28 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/igor/Documents/Velda/solo/GuDestroyer/.theos/obj/debug/arm64e/GuDestroyerPrefs.bundle/GuDestroyerPrefs'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x264 }
+  - { offsetInCU: 0x2B, offset: 0x2B, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController tableView:cellForRowAtIndexPath:]', symObjAddr: 0x4E8, symBinAddr: 0x44E8, symSize: 0x90C }
+  - { offsetInCU: 0x54, offset: 0x54, size: 0x8, addend: 0x0, symName: '_tableView:cellForRowAtIndexPath:.cellIdentifier', symObjAddr: 0x2290, symBinAddr: 0xC3B8, symSize: 0x0 }
+  - { offsetInCU: 0x31EA, offset: 0x31EA, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x264 }
+  - { offsetInCU: 0x322A, offset: 0x322A, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController numberOfSectionsInTableView:]', symObjAddr: 0x264, symBinAddr: 0x4264, symSize: 0x54 }
+  - { offsetInCU: 0x326E, offset: 0x326E, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController tableView:numberOfRowsInSection:]', symObjAddr: 0x2B8, symBinAddr: 0x42B8, symSize: 0xF0 }
+  - { offsetInCU: 0x32C0, offset: 0x32C0, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController tableView:titleForHeaderInSection:]', symObjAddr: 0x3B8, symBinAddr: 0x43B8, symSize: 0x120 }
+  - { offsetInCU: 0x3312, offset: 0x3312, size: 0x8, addend: 0x0, symName: _CGRectMake, symObjAddr: 0xE04, symBinAddr: 0x4E04, symSize: 0x4C }
+  - { offsetInCU: 0x3378, offset: 0x3378, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController tableView:didSelectRowAtIndexPath:]', symObjAddr: 0xE50, symBinAddr: 0x4E50, symSize: 0x144 }
+  - { offsetInCU: 0x33C6, offset: 0x33C6, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController enabledSwitchChanged:]', symObjAddr: 0xF94, symBinAddr: 0x4F94, symSize: 0xC0 }
+  - { offsetInCU: 0x3406, offset: 0x3406, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController applySettings]', symObjAddr: 0x1054, symBinAddr: 0x5054, symSize: 0x1E8 }
+  - { offsetInCU: 0x3454, offset: 0x3454, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController respring]', symObjAddr: 0x123C, symBinAddr: 0x523C, symSize: 0x134 }
+  - { offsetInCU: 0x34B0, offset: 0x34B0, size: 0x8, addend: 0x0, symName: '___41-[GuDestroyerRootListController respring]_block_invoke', symObjAddr: 0x1370, symBinAddr: 0x5370, symSize: 0xBC }
+  - { offsetInCU: 0x3510, offset: 0x3510, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController selectApps]', symObjAddr: 0x142C, symBinAddr: 0x542C, symSize: 0xD8 }
+  - { offsetInCU: 0x355E, offset: 0x355E, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController enabledSwitch]', symObjAddr: 0x1504, symBinAddr: 0x5504, symSize: 0x24 }
+  - { offsetInCU: 0x3594, offset: 0x3594, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController setEnabledSwitch:]', symObjAddr: 0x1528, symBinAddr: 0x5528, symSize: 0x40 }
+  - { offsetInCU: 0x35D2, offset: 0x35D2, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController titleField]', symObjAddr: 0x1568, symBinAddr: 0x5568, symSize: 0x24 }
+  - { offsetInCU: 0x3608, offset: 0x3608, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController setTitleField:]', symObjAddr: 0x158C, symBinAddr: 0x558C, symSize: 0x40 }
+  - { offsetInCU: 0x3646, offset: 0x3646, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController messageField]', symObjAddr: 0x15CC, symBinAddr: 0x55CC, symSize: 0x24 }
+  - { offsetInCU: 0x367C, offset: 0x367C, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController setMessageField:]', symObjAddr: 0x15F0, symBinAddr: 0x55F0, symSize: 0x40 }
+  - { offsetInCU: 0x36BA, offset: 0x36BA, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController defaults]', symObjAddr: 0x1630, symBinAddr: 0x5630, symSize: 0x24 }
+  - { offsetInCU: 0x36F0, offset: 0x36F0, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController setDefaults:]', symObjAddr: 0x1654, symBinAddr: 0x5654, symSize: 0x40 }
+  - { offsetInCU: 0x372E, offset: 0x372E, size: 0x8, addend: 0x0, symName: '-[GuDestroyerRootListController .cxx_destruct]', symObjAddr: 0x1694, symBinAddr: 0x5694, symSize: 0x8C }
+...

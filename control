@@ -1,0 +1,10 @@
+Package: com.greatlove.gudestroyer
+Name: GuDestroyer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Блокирует приложения с настраиваемыми уведомлениями
+Maintainer: Great Love
+Author: Great Love
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Icon: file:///Applications/Cydia.app/Sections/tweaks.png
